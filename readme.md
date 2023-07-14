@@ -1,6 +1,6 @@
-# langchainPDF
+# dataSpeaker
 
-langchainPDF leverages OpenAI language model enabling users to interact with their own data (e.g. csv, txt, pdf).
+dataSpeaker leverages OpenAI language model enabling users to interact with their own data (e.g. csv, txt, pdf).
 
 ## Instruction
 
